@@ -1,3 +1,6 @@
+.important{
+	background-color: #feedf3;
+}
 <center>
   <h1 style="color: #FF1D8D;">Crafts page</h1>
 
