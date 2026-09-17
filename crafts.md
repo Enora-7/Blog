@@ -1,4 +1,4 @@
-<h1 align="center;"style="color: orange;">Crafts page</h1>
+<h1 style="color: orange;">Crafts page</h1>
 
 
   <h2 align="center">Knitting part</h2>
