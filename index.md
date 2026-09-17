@@ -2,6 +2,8 @@
 
 
 <p align="center">
+  
 [Crafts page](./crafts)
 [Baking page](./baking)
 [Current readings](./book)
+
