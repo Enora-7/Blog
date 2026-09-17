@@ -2,7 +2,9 @@
 
 <h2 align="center">Knitting part</h2>
 
-<h3 align="center">WIPs</h3>
+<p style="color: blue;">
+  <h3 align="center">WIPs</h3>
+</p>
 
 <h4 align="center">Froya sweater</h4>
 
