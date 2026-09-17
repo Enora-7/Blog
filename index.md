@@ -1,3 +1,4 @@
 # Main page of blog 
 
-[Crafts page] (./crafts)
+[Crafts page](./crafts)
+[Baking page](./baking)
