@@ -1,7 +1,11 @@
-body {
-	background-color: #feedf3;
-	padding: 20px;
+<head>
+<style>
+	body {
+		background-color: #feedf3;
 }
+</style> 
+</head>
+
 <center>
   <h1 style="color: #FF1D8D;">Crafts page</h1>
 
