@@ -1,8 +1,13 @@
 <h1 align="center">Crafts page</h1>
 
 <h2 align="center">Knitting part</h2>
-WIPs
-Project queue 
+
+<h3 align="center">WIPs</h3>
+
+<h4 align="center">Froya sweater</h4>
+
+
+<h3 align="center">Project queue</h3> 
 
 <h3 align="center">Inspirations</h3>
 
