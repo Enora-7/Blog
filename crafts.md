@@ -9,6 +9,10 @@
 
 <h3 align="center">Project queue</h3> 
 
+<h4 align="center">Maggie Cardigan</h4>
+
+<h4 align="center">Elisabeth Blouse</h4>
+
 <h3 align="center">Inspirations</h3>
 
 <h2 align="center">Pottery painting</h2>
