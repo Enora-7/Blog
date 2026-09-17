@@ -1,5 +1,6 @@
-<h1 style="color: #FF1D8D;">Crafts page</h1>
-
+<center>
+  <h1 style="color: #FF1D8D;">Crafts page</h1>
+</center>
 
   <h2 align="center">Knitting part</h2>
 
