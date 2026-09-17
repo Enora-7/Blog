@@ -1,5 +1,6 @@
-.important{
+body {
 	background-color: #feedf3;
+	padding: 20px;
 }
 <center>
   <h1 style="color: #FF1D8D;">Crafts page</h1>
