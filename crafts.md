@@ -1,35 +1,35 @@
 <center>
   <h1 style="color: #FF1D8D;">Crafts page</h1>
-</center>
-
-  <h2 align="center">Knitting part</h2>
 
 
-  <h3 align="center">WIPs</h3>
+  <h2 style="color: #FF1D8D;">Knitting part</h2>
 
 
-  <h4 align="center">Froya sweater</h4>
+  <h3 style="color: #FF1D8D;">WIPs</h3>
 
 
-  <h3 align="center">Project queue</h3> 
+  <h4 style="color: #FF1D8D;">Froya sweater</h4>
 
-  <h4 align="center">Maggie Cardigan</h4>
 
-  <h4 align="center">Elisabeth Blouse</h4>
+  <h3 style="color: #FF1D8D;">Project queue</h3> 
 
-  <h3 align="center">Inspirations</h3>
+  <h4 style="color: #FF1D8D;">Maggie Cardigan</h4>
 
-  <h2 align="center">Pottery painting</h2>
+  <h4 style="color: #FF1D8D;">Elisabeth Blouse</h4>
 
-  <h3 align="center">Inspirations</h3>
+  <h3 style="color: #FF1D8D;">Inspirations</h3>
 
-  <h2 align="center">Sewing projects</h2>
+  <h2 style="color: #FF1D8D;">Pottery painting</h2>
 
-  <h2 align="center">Favorite content creators</h2>
+  <h3 style="color: #FF1D8D;">Inspirations</h3>
 
-  <h2 align="center">Arts I would love to try</h2>
+  <h2 style="color: #FF1D8D;">Sewing projects</h2>
+
+  <h2 style="color: #FF1D8D;">Favorite content creators</h2>
+
+  <h2 style="color: #FF1D8D;">Arts I would love to try</h2>
 
 
   [Back to the main page](./index)
 
-
+</center>
