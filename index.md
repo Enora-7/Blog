@@ -1,6 +1,8 @@
 <h1 align="center">Main page of blog</h1>
-  
-[Crafts page](./crafts)
+
+<p align="center">
+  [Crafts page](./crafts)
+<p/>
 
 [Baking page](./baking)
 
