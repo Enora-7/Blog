@@ -1,5 +1,5 @@
 <p align="center">
-# Main page of blog 
+#Main page of blog 
 
 [Crafts page](./crafts)
 [Baking page](./baking)
