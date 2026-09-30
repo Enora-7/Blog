@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+---
+
+# Hello!
+
+This is my website.
+
 
 <h1 align="center">Main page of blog</h1>
 
