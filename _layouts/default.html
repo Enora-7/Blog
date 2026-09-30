@@ -8,39 +8,121 @@
 
     <title>{{ page.title }} - {{ site.title }}</title>
 
-    <style>
-        body {
-            background: #fa6194;
-            color: white;
+        <style>
+    /* ===== GLOBAL TEXT STYLE ===== */
+
+    body {
+        background: #080812;
+        color: #d8c7ff;
+
+        font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+        font-size: 17px;
+        line-height: 1.7;
+
+        margin: 0;
+        padding: 40px;
+
+        letter-spacing: 0.3px;
+    }
+
+    /* ===== HEADINGS ===== */
+
+    h1, h2, h3, h4, h5, h6 {
+        color: #d8c7ff;
+
+        font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+
+        font-weight: 600;
+        letter-spacing: 1px;
+
+        text-shadow:
+            0 0 8px rgba(216, 199, 255, 0.35);
+    }
+
+    h1 {
+        font-size: 42px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    /* ===== LINKS ===== */
+
+    a {
+        color: #d8c7ff;
+        text-decoration: none;
+
+        border-bottom: 1px solid transparent;
+
+        transition:
+            color 0.2s ease,
+            border-color 0.2s ease,
+            text-shadow 0.2s ease;
+    }
+
+    a:hover {
+        color: #ffffff;
+
+        border-bottom-color: #d8c7ff;
+
+        text-shadow:
+            0 0 8px #d8c7ff,
+            0 0 16px rgba(216, 199, 255, 0.5);
+    }
+
+    /* ===== NORMAL TEXT ===== */
+
+    p, li, span, strong, em {
+        color: #d8c7ff;
+    }
+
+    /* ===== CODE ===== */
+
+    code {
+        color: #d8c7ff;
+        background: rgba(216, 199, 255, 0.08);
+
+        padding: 3px 7px;
+        border-radius: 5px;
+    }
+
+    /* ===== STAR CURSOR ===== */
+
+    .star {
+        position: fixed;
+        pointer-events: none;
+        z-index: 9999;
+
+        color: #ffffff;
+        font-size: 16px;
+
+        transform: translate(-50%, -50%);
+
+        animation: starFade 800ms ease-out forwards;
+
+        text-shadow:
+            0 0 5px white,
+            0 0 10px #9bdcff,
+            0 0 20px #4db8ff;
+    }
+
+    @keyframes starFade {
+        0% {
+            opacity: 1;
+            transform: translate(-50%, -50%) scale(1);
         }
 
-        .star {
-            position: fixed;
-            pointer-events: none;
-            z-index: 9999;
-            color: white;
-            font-size: 16px;
-            transform: translate(-50%, -50%);
-            animation: starFade 800ms ease-out forwards;
-
-            text-shadow:
-                0 0 5px white,
-                0 0 10px #9bdcff,
-                0 0 20px #4db8ff;
+        100% {
+            opacity: 0;
+            transform: translate(-50%, -50%) scale(0.2) rotate(180deg);
         }
-
-        @keyframes starFade {
-            0% {
-                opacity: 1;
-                transform: translate(-50%, -50%) scale(1);
-            }
-
-            100% {
-                opacity: 0;
-                transform: translate(-50%, -50%) scale(0.2) rotate(180deg);
-            }
-        }
-    </style>
+    }
+</style>
 
 </head>
 
