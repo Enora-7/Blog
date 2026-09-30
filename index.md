@@ -59,5 +59,5 @@ And Blackout, I think Piece of me is one of my most listened to song at the mome
     <a href="./crafts">Craft Corner</a>
     <a href="./baking">Baking Page</a>
     <a href="./book">Reading Nook</a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Here for a surprise</a>
+    <a href="https://blogs.mtdv.me/articles/most-recognized-outfit">Here for a surprise</a>
 </div>
