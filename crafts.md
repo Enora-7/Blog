@@ -19,13 +19,13 @@
 
   <h3>Inspirations</h3>
 
-  <h2Pottery painting</h2>
+  <h2>Pottery painting</h2>
 
   <h3>Inspirations</h3>
 
   <h2>Sewing projects</h2>
 
-  <h2Favorite content creators</h2>
+  <h2>Favorite content creators</h2>
 
   <h2>Arts I would love to try</h2>
 
