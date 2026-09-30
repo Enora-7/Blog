@@ -16,9 +16,13 @@ title: Home
 </div>
 
 
-[Crafts page](./crafts)
-
-[Baking page](./baking)
-
-[Current readings](./book)
-
+<div style="
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+">
+    <a href="./crafts">Crafts page</a>
+    <a href="./baking">Baking page</a>
+    <a href="./book">Current readings</a>
+</div>
