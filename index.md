@@ -16,7 +16,7 @@ title: Home
     </iframe>
 </div>
 
-<h2>My top 3 album of the moment</h2>h2>
+<h2>My top 3 album of the moment</h2>
 
 - **Arirang - BTS**
 
