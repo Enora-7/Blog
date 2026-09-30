@@ -13,7 +13,7 @@
     }
 
     body {
-      background: #050510;
+      background: #fa6194;
       overflow: hidden;
       height: 100vh;
       cursor: crosshair;
@@ -87,7 +87,6 @@
 
 </body>
 </html>
-
 
 
 <h1 align="center">Main page of blog</h1>
