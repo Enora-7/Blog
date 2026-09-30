@@ -1,31 +1,31 @@
 <center>
-  <h1 style="color: #FF1D8D;">Crafts page</h1>
+  <h1 style="color: #FFFFFF;">Crafts page</h1>
 
 
-  <h2 style="color: #FF1D8D;">Knitting part</h2>
+  <h2 style="color: #FFFFFF;">Knitting part</h2>
 
 
-  <h3 style="color: #FF1D8D;">WIPs</h3>
+  <h3 style="color: #FFFFFF;">WIPs</h3>
 
 
-  <h4 style="color: #FF1D8D;">Froya sweater</h4>
+  <h4 style="color: #FFFFFF;">Froya sweater</h4>
 
 
-  <h3 style="color: #FF1D8D;">Project queue</h3> 
+  <h3 style="color: #FFFFFF;">Project queue</h3> 
 
-  <h4 style="color: #FF1D8D;">Maggie Cardigan</h4>
+  <h4 style="color: #FFFFFF;">Maggie Cardigan</h4>
 
-  <h4 style="color: #FF1D8D;">Elisabeth Blouse</h4>
+  <h4 style="color: #FFFFFF;">Elisabeth Blouse</h4>
 
-  <h3 style="color: #FF1D8D;">Inspirations</h3>
+  <h3 style="color: #FFFFFF;">Inspirations</h3>
 
-  <h2 style="color: #FF1D8D;">Pottery painting</h2>
+  <h2 style="color: #FFFFFF;">Pottery painting</h2>
 
-  <h3 style="color: #FF1D8D;">Inspirations</h3>
+  <h3 style="color: #FFFFFF;">Inspirations</h3>
 
-  <h2 style="color: #FF1D8D;">Sewing projects</h2>
+  <h2 style="color: #FFFFFF;">Sewing projects</h2>
 
-  <h2 style="color: #FF1D8D;">Favorite content creators</h2>
+  <h2 style="color: #FFFFFF;">Favorite content creators</h2>
 
   <h2 style="color: #FF1D8D;">Arts I would love to try</h2>
 
