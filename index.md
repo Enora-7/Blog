@@ -19,14 +19,18 @@ title: Home
 <h2>My top 3 album of the moment</h2>
 
 - **Arirang - BTS**
-<p align="right">
-  <img src="./images/image_1.jpg" width="200" height="284">
+<p align="left">
+  <img src="./images/arirang.jpeg" width="200" height="200">
 </p>
 
 - **B'day - Beyonce**
-
+<p align="center">
+  <img src="./images/b'day.jpeg" width="200" height="200">
+</p>
 - **Blackout - Britney Spears**
-
+<p align="right">
+  <img src="./images/blackout.jpeg" width="200" height="200">
+</p>
 
 <div style="
     display: flex;
