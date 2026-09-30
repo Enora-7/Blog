@@ -3,12 +3,8 @@ layout: default
 title: Home
 ---
 
-# Hello!
 
-This is my website.
-
-
-<h1 align="center">Main page of blog</h1>
+<h1 align="center">Welcome to my fabulous page</h1>
 
 [Crafts page](./crafts)
 
