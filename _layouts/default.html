@@ -1,5 +1,73 @@
-<body style="background:red;">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    <style>
+        body {
+            background: #080812;
+            color: white;
+        }
+
+        .star {
+            position: fixed;
+            pointer-events: none;
+            z-index: 9999;
+            color: white;
+            font-size: 16px;
+            transform: translate(-50%, -50%);
+            animation: starFade 800ms ease-out forwards;
+
+            text-shadow:
+                0 0 5px white,
+                0 0 10px #9bdcff,
+                0 0 20px #4db8ff;
+        }
+
+        @keyframes starFade {
+            0% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(1);
+            }
+
+            100% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0.2) rotate(180deg);
+            }
+        }
+    </style>
+
+</head>
+
+<body>
 
     {{ content }}
 
+    <script>
+        document.addEventListener("mousemove", function(event) {
+
+            const star = document.createElement("div");
+
+            star.className = "star";
+            star.textContent = "✦";
+
+            star.style.left = event.clientX + "px";
+            star.style.top = event.clientY + "px";
+
+            document.body.appendChild(star);
+
+            setTimeout(function() {
+                star.remove();
+            }, 800);
+
+        });
+    </script>
+
 </body>
+
+</html>
