@@ -18,16 +18,28 @@ title: Home
 
 <h2>My top 3 album of the moment</h2>
 
-1. Arirang - BTS    2. B'day - Beyonce    3. Blackout - Britney Spears
 <div style="
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    text-align: center;
     width: 100%;
 ">
-    <img src="./images/arirang.jpeg" width="200" height="200">
-    <img src="./images/b'day.jpeg" width="200" height="200">
-    <img src="./images/blackout.jpeg" width="200" height="200">
+
+<div>
+<strong>1. Arirang - BTS</strong><br>
+<img src="./images/arirang.jpeg" width="200" height="200">
+</div>
+
+<div>
+<strong>2. B'day - Beyoncé</strong><br>
+<img src="./images/b'day.jpeg" width="200" height="200">
+</div>
+
+<div>
+<strong>3. Blackout - Britney Spears</strong><br>
+<img src="./images/blackout.jpeg" width="200" height="200">
+</div>
+
 </div>
 
 
