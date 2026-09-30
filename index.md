@@ -18,9 +18,11 @@ title: Home
 
 <h2>My top 3 album of the moment<h2/>
 
-Arirang - BTS
-B'day - Beyonce
-Blackout - Britney Spears
+- **Arirang - BTS**
+
+- **B'day - Beyonce**
+
+- **Blackout - Britney Spears**
 
 
 <div style="
