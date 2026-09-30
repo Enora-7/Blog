@@ -4,8 +4,9 @@ title: Home
 ---
 
 
-<h1 align="center">Welcome to my ✨fabulous✨ page</h1>
+<h1 align="center">Welcome to my ✨fabulous✨ world</h1>
 
+<h2>On loop at the moment<h2/>
 <div style="position: relative; width: 100%; max-width: 800px; aspect-ratio: 16 / 9;">
     <iframe
         src="https://www.youtube.com/embed/lIxQe1R5hs0"
@@ -14,6 +15,12 @@ title: Home
         allowfullscreen>
     </iframe>
 </div>
+
+<h2>My top 3 album of the moment<h2/>
+
+Arirang - BTS
+B'day - Beyonce
+Blackout - Britney Spears
 
 
 <div style="
