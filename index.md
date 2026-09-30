@@ -52,7 +52,7 @@ I love these 3 albums with my whole heart! I've been obsessed with Arirang since
     gap: 30px;
     margin-top: 40px;
 ">
-    <a href="./crafts">Crafts page</a>
-    <a href="./baking">Baking page</a>
-    <a href="./book">Current readings</a>
+    <a href="./crafts">Craft Corner</a>
+    <a href="./baking">Baking Page</a>
+    <a href="./book">Reading Nook</a>
 </div>
