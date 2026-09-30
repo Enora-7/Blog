@@ -6,8 +6,8 @@ I only have 1 work in progress at the moment (well technically 2 but I'm not tak
   <h4>My Froya sweater</h4>
   
 So it's far and close to being done at the same time. I can't believe I've been working on it for already 3 months and I still have both sleeves to do 😭😭 Fortunately the first sleeve is already started !!
-<p align="left">
-  <img src="./images/hooray.png" width="200" height="200">
+<p align="center">
+  <img src="./images/hooray.png" width="300" height="200">
 </p>
 
   <h3>Project queue</h3> 
