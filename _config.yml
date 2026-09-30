@@ -1,7 +1,9 @@
+title: My Website
+description: My personal website
+
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
-
