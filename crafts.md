@@ -1,15 +1,14 @@
-<center>
-  <h1>Crafts page</h1>
-
-
-  <h2>Knitting part</h2>
-
+ <h1>Crafts page</h1>
 
   <h3>WIPs</h3>
+I only have 1 work in progress at the moment (well technically 2 but I'm not taking into account my crochet top...) so this is pretty much a victory!! 
 
-
-  <h4>Froya sweater</h4>
-
+  <h4>My Froya sweater</h4>
+  
+So it's far and close to being done at the same time. I can't believe I've been working on it for already 3 months and I still have both sleeves to do 😭😭 Fortunately the first sleeve is already started !!
+<p align="left">
+  <img src="./images/hooray.png" width="200" height="200">
+</p>
 
   <h3>Project queue</h3> 
 
@@ -17,18 +16,8 @@
 
   <h4>Elisabeth Blouse</h4>
 
-  <h3>Inspirations</h3>
-
-  <h2>Pottery painting</h2>
-
-  <h3>Inspirations</h3>
-
-  <h2>Sewing projects</h2>
-
-  <h2>Favorite content creators</h2>
 
   <h2>Arts I would love to try</h2>
 
-</center>
 
   [Back to the main page](./index)
