@@ -19,6 +19,9 @@ title: Home
 <h2>My top 3 album of the moment</h2>
 
 - **Arirang - BTS**
+<p align="right">
+  <img src="./images/image_1.jpg" width="200" height="284">
+</p>
 
 - **B'day - Beyonce**
 
