@@ -15,6 +15,8 @@ title: Home
         allowfullscreen>
     </iframe>
 </div>
+I really can't seem to get bored of this song, it is so addictive I've been listening to it all the time over and over again since it came out and honestly it deserved the VMA for Best Collaboration, I'm so sad they didn't get it...
+
 
 <h2>My top 3 album of the moment</h2>
 
@@ -42,6 +44,7 @@ title: Home
 
 </div>
 
+I love these 3 albums with my whole heart! I've been obsessed with Arirang since March 20th when it came out AND I STILL CAN'T BELIEVE I GOT TO SEE THEM IRL (15 year-old me wouldn't believe it at all)!!!! I've loved B'day for as long as I can remember because the songs on it are iconic (I mean obviously since Queen B wrote them) and honestly I can't believe the album is already 20 years old because the songs still feel recent. And Blackout, I think Piece of me is one of my most listened to song at the moment, I absolutely love it. 
 
 <div style="
     display: flex;
