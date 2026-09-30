@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<h1 align="center">Welcome to my fabulous page</h1>
+<h1 align="center">Welcome to my ✨fabulous✨ page</h1>
 
 <div style="position: relative; width: 100%; max-width: 800px; aspect-ratio: 16 / 9;">
     <iframe
