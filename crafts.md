@@ -29,7 +29,6 @@
 
   <h2 style="color: #FF1D8D;">Arts I would love to try</h2>
 
+</center>
 
   [Back to the main page](./index)
-
-</center>
