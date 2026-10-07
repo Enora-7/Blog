@@ -35,6 +35,13 @@ This is my next project that I'll probably start in November, when (hopefully) I
 
 I would love to try pottery painting. I've seen it all over social media and honestly I had never thought of doing anything pottery-related before, but after seeing all those beautiful dishes I just wanna try so bad. I think I would do something really cutesy with little fruits or tiny flowers painted on them, but I also would love to have a mug with a cartoon-ish painting of my face on it, I just find it so cool.
 
+<div style="
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+">
+ 
   <div>
 <strong>Inspiration 1</strong><br>
 <img src="./images/pottery painting 1.jpeg" width="200" height="355">
