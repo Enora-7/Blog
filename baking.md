@@ -6,7 +6,7 @@
 
 Those are my absolutely favorite cookies ever!!! I literally can't stop making them they are so good! One of these cookies all warm on top of vanilla ice-cream is life-changing, I can't stress this enough!
 <p align="center">
-  <img src="./images/Cookies.png" width="200" height="355">
+  <img src="./images/cookies.png" width="200" height="355">
 </p>
 
 * 2 sticks of salted butter
@@ -30,6 +30,9 @@ This the best apple pie recipe I've ever tasted, none of them compare to my gran
 * 3 eggs
 * 3 tablespoons of heavy cream
 * a bit of milk
+
+
+
 
 
 [Back to the main page](./index)
