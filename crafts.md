@@ -14,7 +14,7 @@ So it's far and close to being done at the same time. I can't believe I've been 
 
  I took a picture before starting the sleeves and this is what it looked like so far.
  <p align="center">
-  <img src="./images/froya progress.png" width="200" height="355">
+  <img src="./images/froya progress.png" width="200" height="300">
 </p>
 
 
@@ -44,17 +44,17 @@ I would love to try pottery painting. I've seen it all over social media and hon
  
   <div>
 <strong>Inspiration 1</strong><br>
-<img src="./images/pottery painting 1.jpeg" width="200" height="355">
+<img src="./images/pottery painting 1.jpeg" width="200" height="300">
 </div>
 
 <div>
 <strong>Inspiration 2</strong><br>
-<img src="./images/pottery painting 2.jpeg" width="200" height="355">
+<img src="./images/pottery painting 2.jpeg" width="200" height="300">
 </div>
 
 <div>
 <strong>Inspiration 3</strong><br>
-<img src="./images/pottery painting 3.jpeg" width="200" height="355">
+<img src="./images/pottery painting 3.jpeg" width="200" height="300">
 </div>
 
 </div>
