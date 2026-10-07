@@ -9,7 +9,7 @@ I only have 1 work in progress at the moment (well technically 2 but I'm not tak
   
 So it's far and close to being done at the same time. I can't believe I've been working on it for already 3 months and I still have both sleeves to do 😭😭 Fortunately the first sleeve is almost finished !!
 <p align="center">
-  <img src="./images/hooray.png" width="300" height="200">
+  <img src="./images/hooray.png" width="350" height="200">
 </p>
 
  I took a picture before starting the sleeves and this is what it looked like so far.
