@@ -4,7 +4,7 @@
 
 <h3>Pride and prejudice</h3>
 <p align="center">
-  <img src="./images/image_1.jpg" width="200" height="284">
+  <img src="./images/image_1.jpg" width="200" height="300">
 </p>
 
 ***Plot :*** **England is fighting Napoleon on the continent, and officers look so dashing in their red coats.**
@@ -16,7 +16,7 @@ Personally, I am a big fan of the whole story. I love the 2005 movie adaptation 
 
 <h3>King of Gluttony</h3>
 <p align="center">
-  <img src="./images/King of Gluttony.jpeg" width="200" height="284">
+  <img src="./images/King of Gluttony.jpeg" width="200" height="300">
 </p>
 
 ***Plot :*** ***She's his greatest rival... and his greatest weakness.*** 
@@ -32,7 +32,7 @@ On a side note, I can't wait for her new book *The Keeper* to come out at the en
 
 <h3>Wings of Starlight</h3>
 <p align="center">
-  <img src="./images/Wings of Starlight.jpeg" width="200" height="284">
+  <img src="./images/Wings of Starlight.jpeg" width="200" height="300">
 </p>
 
 ***Plot :*** **Discover the sweeping, star-crossed romance between the Queen of Pixie Hollow and the Lord of the Winter Woods.**
